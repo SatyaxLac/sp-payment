@@ -130,7 +130,3 @@ POST /api/webhooks/bank          → receives signed settlement callbacks from b
 ```
 
 ---
-
-## Attribution & Acknowledgements
-
-This project was customized as **Sp Payment**, based on the open-source payment system architecture created by [Tanmay-boop-hash/flo-payments](https://github.com/Tanmay-boop-hash/flo-payments). Credit is gratefully given to the original repository for the foundational backend architectural concept.
