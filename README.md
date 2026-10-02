@@ -80,7 +80,7 @@ Invalid state transitions throw application-level exceptions before attempting a
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tanmay-boop-hash/flo-payments.git
+git clone https://github.com/SatyaxLac/sp-payment.git
 cd flo-payments
 
 # 1. Start Server Backend (Port 3000)
